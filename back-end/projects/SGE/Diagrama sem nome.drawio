@@ -11,16 +11,31 @@
           <mxGeometry x="50" y="340" width="50" height="90" as="geometry" />
         </mxCell>
         <mxCell id="I1ASSPgnv77Yv3--6DFM-4" value="Cadastrar produto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="40" width="230" height="80" as="geometry" />
+          <mxGeometry x="320" y="50" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I1ASSPgnv77Yv3--6DFM-5" value="Alterar produto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="130" width="230" height="80" as="geometry" />
+          <mxGeometry x="320" y="110" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I1ASSPgnv77Yv3--6DFM-6" value="Excluir produto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="220" width="230" height="80" as="geometry" />
+          <mxGeometry x="320" y="170" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I1ASSPgnv77Yv3--6DFM-7" value="Cadastrar usuário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="310" width="230" height="80" as="geometry" />
+          <mxGeometry x="319" y="230" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I1ASSPgnv77Yv3--6DFM-8" value="Alterar usuário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="290" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I1ASSPgnv77Yv3--6DFM-9" value="Excluir usuário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="350" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I1ASSPgnv77Yv3--6DFM-10" value="Cadastrar perfil de usuário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="196" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I1ASSPgnv77Yv3--6DFM-11" value="Alterar perfil de&amp;nbsp;usuário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="470" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I1ASSPgnv77Yv3--6DFM-12" value="Excluir perfil de&amp;nbsp;usuário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="529" width="200" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
